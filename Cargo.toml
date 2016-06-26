@@ -1,0 +1,9 @@
+[package]
+name = "newrelic"
+version = "0.1.0"
+authors = ["Herman J. Radtke III <herman@hermanradtke.com>"]
+
+build = "build.rs"
+
+[dependencies]
+log = "0.3.6"
