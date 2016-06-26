@@ -17,3 +17,16 @@ curl -sO http://download.newrelic.com/agent_sdk/nr_agent_sdk-v0.16.2.0-beta.x86_
 
 If you are debugging the New Relic SDK, then you are strongly encouraged to enable logging. In the Docker container, copy the `/usr/local/nr_agent_sdk/config/log4cplus.properties` file
 to `$HOME/.newlic`. Then modify the `$HOME/.newrelic/log4cplus.properties` file to change the log level from `info` to `all` (there are two places that need to be changed).
+
+## License
+
+Licensed under either of
+ * Apache License, Version 2.0 ([LICENSE-APACHE](LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0)
+ * MIT license ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT)
+at your option.
+
+### Contribution
+
+Unless you explicitly state otherwise, any contribution intentionally submitted
+for inclusion in the work by you, as defined in the Apache-2.0 license, shall be dual licensed as above, without any
+additional terms or conditions.
