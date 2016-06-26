@@ -5,9 +5,9 @@ description = "Rust bindings for New Relic."
 license = "MIT/Apache-2.0"
 authors = ["Herman J. Radtke III <herman@hermanradtke.com>"]
 
-documentation = "https://github.com/hjr3/newrelic"
-homepage = "https://github.com/hjr3/newrelic"
-repository = "https://github.com/hjr3/newrelic"
+documentation = "https://github.com/hjr3/newrelic-rs"
+homepage = "https://github.com/hjr3/newrelic-rs"
+repository = "https://github.com/hjr3/newrelic-rs"
 
 build = "build.rs"
 
