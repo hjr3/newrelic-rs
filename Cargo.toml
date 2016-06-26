@@ -1,6 +1,6 @@
 [package]
 name = "newrelic"
-version = "0.0.1"
+version = "0.0.2"
 description = "Rust bindings for New Relic."
 license = "MIT/Apache-2.0"
 authors = ["Herman J. Radtke III <herman@hermanradtke.com>"]
